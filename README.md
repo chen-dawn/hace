@@ -1,4 +1,4 @@
 # Helicase Assisted Continuous Editing (HACE)
 
-Scripts and data associated with HACE manuscript. 
+Scripts associated with HACE manuscript. 
 

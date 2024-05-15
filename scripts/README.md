@@ -4,7 +4,7 @@ Usually I can "pseudo parallelize" it as follows:
 
 ```
 align_task() {
-    /broad/thechenlab/Dawn/MyScripts/align_single_fastq_to_reference_George_TRACE_pythonPileup.sh \
+    /broad/thechenlab/Dawn/MyScripts/align_single_fastq_to_reference.sh \
         $1 \
         04_RUNX1.fasta
 }
